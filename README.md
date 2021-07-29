@@ -14,3 +14,4 @@
 ## - Palenight Theme
 ## - Tabnine AI Code Completion,
 ## - vscode-styled-components
+## css modules
