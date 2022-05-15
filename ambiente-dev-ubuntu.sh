@@ -1,3 +1,5 @@
+ZSH + Oh My ZSH no Ubuntu (Instalando, configurando e otimizando o seu terminal)
+
 #!/bin/bash
 
 # Executar comandos a seguir para atualizar os pacotes
